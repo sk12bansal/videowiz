@@ -1,12 +1,27 @@
 # # -*- coding: utf-8 -*-
 # # @Author: surakum2
+
+
+
+
+
+
 # # @Date:   2017-11-07 19:10:46
 # # @Last Modified by:   surakum2
+
+
+
+
 # # @Last Modified time: 2017-11-23 22:40:14
 # # import io,os
 # # print("hello, i am p1")
 # # def generate_p2():
 # # 	with io.FileIO("sk.py", "w") as file:
+
+
+
+
+
 # # 		file.write(b"def say_hello(): \\n \\tprint('hello') \\ndef say_world(): \\n \\tprint('world') \\nif __name__ == '__main__': \\n \\tsay_hello() \\n \\tsay_world()")
 # # if __name__ == '__main__':
 # # 	generate_p2()
