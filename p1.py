@@ -27,6 +27,11 @@
 # # 	generate_p2()
 # # 	os.system("python sk.py")
 # import io,array
+
+
+
+
+
 # with open('p2.py','r') as f:
 #     with open("p3.py", 'w+') as f1:
 #         for line in f:
