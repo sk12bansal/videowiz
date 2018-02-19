@@ -8,3 +8,7 @@ Created on Wed Aug  9 15:40:31 2017
 from itertools import repeat
 for v in repeat("hello",6):
     print(v)
+
+
+    #vgfdbvgkngfnbvfbngfnjgfnbvfbbfdbf
+
