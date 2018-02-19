@@ -8,3 +8,10 @@ for idx,val in enumerate(s):
     else:
        	s[idx]=s[idx].upper()
 print(''.join(s))
+
+
+
+
+#vdvnvfnvfsvcsv
+#vfvnvnfdvnfdv
+#vfbvfdbvfdbfdb
